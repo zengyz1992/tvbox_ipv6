@@ -1,3 +1,4 @@
+📺央视频道,#genre#
 CCTV1,http://39.134.68.155:6610/PLTV/88888888/224/3221226514/index.m3u8?IASHttpSessionId=
 CCTV1,http://39.134.68.155:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
 CCTV1,http://39.134.68.155:6610/PLTV/88888888/224/3221226559/index.m3u8?IASHttpSessionId=
@@ -37,6 +38,8 @@ CGTN俄语,http://39.134.68.155:6610/PLTV/88888888/224/3221226543/index.m3u8?IAS
 CGTN法语,http://39.134.68.155:6610/PLTV/88888888/224/3221226520/index.m3u8?IASHttpSessionId=
 CGTN记录,http://39.134.68.155:6610/PLTV/88888888/224/3221225602/index.m3u8?IASHttpSessionId=
 CGTN西语,http://39.134.68.155:6610/PLTV/88888888/224/3221226431/index.m3u8?IASHttpSessionId=
+
+📡卫视频道,#genre#
 北京卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221225728/index.m3u8?IASHttpSessionId=
 北京卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=
 北京卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221226251/index.m3u8?IASHttpSessionId=
@@ -129,6 +132,8 @@ CGTN西语,http://39.134.68.155:6610/PLTV/88888888/224/3221226431/index.m3u8?IAS
 北京纪实科教,http://39.134.68.155:6610/PLTV/88888888/224/3221225729/index.m3u8?IASHttpSessionId=
 北京少儿,http://39.134.68.155:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 山东教育卫视,http://39.134.68.155:6610/PLTV/88888888/224/3221225655/index.m3u8?IASHttpSessionId=
+
+☘️黑龙江频道,#genre#
 黑龙江都市,http://39.134.68.155:6610/PLTV/88888888/224/3221226301/index.m3u8?IASHttpSessionId=
 黑龙江都市,http://39.134.68.155:6610/PLTV/88888888/224/3221226427/index.m3u8?IASHttpSessionId=
 黑龙江农业科教,http://39.134.68.155:6610/PLTV/88888888/224/3221226242/index.m3u8?IASHttpSessionId=
